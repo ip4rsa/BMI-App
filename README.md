@@ -1,6 +1,6 @@
 # bmicalculator
 
-A new Flutter project.
+Body mass index detection app. Programmed with Dart and Flutter.
 
 ## Getting Started
 
